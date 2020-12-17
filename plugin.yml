@@ -1,0 +1,20 @@
+name: SgCraftTPA
+main: br.com.sgcraft.tpa.Main
+version: 3.0.0
+author: Sardinhagamer_HD
+commands:
+  tpa:
+    aliases: []
+  tpaceitar:
+    aliases: [tpaccept]
+  tpnegar:
+    aliases: [tpdeny]
+  tptoggle:
+  tpo:
+    aliases: [tpoutro]
+  tpaqui:
+    aliases: [tphere]
+  tpcancelar:
+    aliases: [tpcancel]
+  tpaleatorio:
+    aliases: [randomtp]
